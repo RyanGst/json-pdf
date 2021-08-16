@@ -1,0 +1,226 @@
+{
+	"count": 10,
+	"next": null,
+	"previous": null,
+	"results": [
+		{
+			"id": 1,
+			"model": {
+				"id": 1,
+				"brand": {
+					"id": 1,
+					"name": "Apple",
+					"description": null
+				},
+				"name": "IPHONE X",
+				"description": null
+			},
+			"hash_price_per_unit": "c18626f6a0fcf5314115a5070c71c8abd14af3de7076de6f515c3696278fc54a",
+			"product_imgs": [],
+			"sku": "1",
+			"price_per_unit": "15000.00000",
+			"active_for_sale": true
+		},
+		{
+			"id": 2,
+			"model": {
+				"id": 1,
+				"brand": {
+					"id": 1,
+					"name": "Apple",
+					"description": null
+				},
+				"name": "IPHONE X",
+				"description": null
+			},
+			"hash_price_per_unit": "67fb03ccb7e3ba9d8a66b534a301dbd00e3eb1ca825ea33f48aa848e10b1fcb8",
+			"product_imgs": [],
+			"sku": "321",
+			"price_per_unit": "15000.00000",
+			"active_for_sale": true
+		},
+		{
+			"id": 3,
+			"model": {
+				"id": 2,
+				"brand": {
+					"id": 1,
+					"name": "Apple",
+					"description": null
+				},
+				"name": "IPHONE XR",
+				"description": null
+			},
+			"hash_price_per_unit": "627a06efb93f50e63320cfd3023be1e3fb75ac717b330b65352a96e1f70f0d44",
+			"product_imgs": [],
+			"sku": "3575",
+			"price_per_unit": "15000.00000",
+			"active_for_sale": false
+		},
+		{
+			"id": 4,
+			"model": {
+				"id": 4,
+				"brand": {
+					"id": 1,
+					"name": "Apple",
+					"description": null
+				},
+				"name": "iPhone 12 Pro Max",
+				"description": "Ano de lançamento: 2020"
+			},
+			"hash_price_per_unit": "2b4be3aebfa05d45db79c7d9556c91d0c92eed333c4d98a67f04bb57f73acbd2",
+			"product_imgs": [
+				{
+					"id": 1,
+					"img": "https://cpcon.nyc3.digitaloceanspaces.com/stock/sandbox/public/tenant/sandbox/product/4/imgs/iphone12-pro-max-colors.jpg"
+				}
+			],
+			"sku": "1188447562",
+			"price_per_unit": "140050.00000",
+			"active_for_sale": true
+		},
+		{
+			"id": 5,
+			"model": {
+				"id": 5,
+				"brand": {
+					"id": 1,
+					"name": "Apple",
+					"description": null
+				},
+				"name": "iPhone 12 mini",
+				"description": "Ano de lançamento: 2020"
+			},
+			"hash_price_per_unit": "8b48c14f530cc6c21afeea7f153ce044832beca8f8d6f0182882f3162e7e12f2",
+			"product_imgs": [
+				{
+					"id": 2,
+					"img": "https://cpcon.nyc3.digitaloceanspaces.com/stock/sandbox/public/tenant/sandbox/product/5/imgs/2021-iphone12-mini-colors.jpg"
+				}
+			],
+			"sku": "14789563",
+			"price_per_unit": "140050.00000",
+			"active_for_sale": true
+		},
+		{
+			"id": 6,
+			"model": {
+				"id": 6,
+				"brand": {
+					"id": 1,
+					"name": "Apple",
+					"description": null
+				},
+				"name": "iPhone XS",
+				"description": "Ano de lançamento: 2018"
+			},
+			"hash_price_per_unit": "297a8970c1ea14ed36d6399f9e7d3d54274c6afec5d0645730132036350a4b42",
+			"product_imgs": [
+				{
+					"id": 3,
+					"img": "https://cpcon.nyc3.digitaloceanspaces.com/stock/sandbox/public/tenant/sandbox/product/6/imgs/iphone-xs-colors.jpg"
+				}
+			],
+			"sku": "88557",
+			"price_per_unit": "140050.00000",
+			"active_for_sale": true
+		},
+		{
+			"id": 7,
+			"model": {
+				"id": 7,
+				"brand": {
+					"id": 1,
+					"name": "Apple",
+					"description": null
+				},
+				"name": "iPhone XR",
+				"description": "Ano de lançamento: 2018"
+			},
+			"hash_price_per_unit": "5a9fa92ba34088bfba3974334488223f376dc7d48df49c83d629c998576c18ac",
+			"product_imgs": [
+				{
+					"id": 4,
+					"img": "https://cpcon.nyc3.digitaloceanspaces.com/stock/sandbox/public/tenant/sandbox/product/7/imgs/identify-iphone-xr-colors.jpg"
+				},
+				{
+					"id": 5,
+					"img": "https://cpcon.nyc3.digitaloceanspaces.com/stock/sandbox/public/tenant/sandbox/product/7/imgs/iphone-8-colors.jpg"
+				}
+			],
+			"sku": "123654",
+			"price_per_unit": "140050.00000",
+			"active_for_sale": true
+		},
+		{
+			"id": 8,
+			"model": {
+				"id": 8,
+				"brand": {
+					"id": 1,
+					"name": "Apple",
+					"description": null
+				},
+				"name": "iPhone 8",
+				"description": "Ano de lançamento: 2017"
+			},
+			"hash_price_per_unit": "210c503421abdfa2cbc4327f876901afbd9b8a12a9505fb661bdc838a95be2ad",
+			"product_imgs": [
+				{
+					"id": 6,
+					"img": "https://cpcon.nyc3.digitaloceanspaces.com/stock/sandbox/public/tenant/sandbox/product/8/imgs/iphone-8-colors.jpg"
+				}
+			],
+			"sku": "121114",
+			"price_per_unit": "140050.00000",
+			"active_for_sale": true
+		},
+		{
+			"id": 9,
+			"model": {
+				"id": 9,
+				"brand": {
+					"id": 1,
+					"name": "Apple",
+					"description": null
+				},
+				"name": "iPhone 6s Plus",
+				"description": "Ano de lançamento: 2015"
+			},
+			"hash_price_per_unit": "315da9168fe31d00ebfdcdbb3672efd5a6d417d8f2de4a385657f2a9c0e4278f",
+			"product_imgs": [
+				{
+					"id": 7,
+					"img": "https://cpcon.nyc3.digitaloceanspaces.com/stock/sandbox/public/tenant/sandbox/product/9/imgs/iphone-6splus-colors.jpg"
+				}
+			],
+			"sku": "1157821114",
+			"price_per_unit": "140050.00000",
+			"active_for_sale": true
+		},
+		{
+			"id": 10,
+			"model": {
+				"id": 10,
+				"brand": {
+					"id": 1,
+					"name": "Apple",
+					"description": null
+				},
+				"name": "iPhone 6",
+				"description": "Ano de lançamento: 2014"
+			},
+			"hash_price_per_unit": "ed5ed58a6856888005b7e05ec28317cfca93aac5edd1f656ed419c69c5ff82ac",
+			"product_imgs": [
+				{
+					"id": 8,
+					"img": "https://cpcon.nyc3.digitaloceanspaces.com/stock/sandbox/public/tenant/sandbox/product/10/imgs/iphone-iphone6-colors.jpg"
+				}
+			],
+			"sku": "115324",
+			"price_per_unit": "140050.00000",
+			"active_for_sale": true
+		}
+	]
+}
